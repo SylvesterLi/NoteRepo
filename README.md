@@ -6,11 +6,11 @@
 +--+---  Notes Catalog  +---+
    |
    |
-   +--+  Experiment PPT
+   +--+  Experiment PPT [All my experiment pictures and instructions]
    |
+   +--+  CSMxWeiXinSample [Wechat Authentication Sample]
    |
-   |
-   |
+   +--+  
    |
    |
    |
