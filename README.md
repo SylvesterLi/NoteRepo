@@ -6,13 +6,13 @@
 +--+---  Notes Catalog  +---+
    |
    |
-   +--+  Experiment PPT [All my experiment pictures and instructions]
+   +--+  实验部分截图与笔记.pptx [All my experiment pictures and instructions]
    |
    +--+  CSMxWeiXinSample [Wechat Authentication Sample]
    |
+   +--+  SangyuLi_WindowsStartup.pptx [Windows Setup UDisk Made Process]
+   |
    +--+  
-   |
-   |
    |
    +
 ```
