@@ -1,8 +1,8 @@
-NoteRepo
+# NoteRepo
 
-As a collection of my note, here could be some ppt and markdown files
+## As a collection of my note, here could be some ppt and markdown files
 
-
+```
 +--+---  Notes Catalog  +---+
    |
    |
@@ -15,4 +15,4 @@ As a collection of my note, here could be some ppt and markdown files
    |
    |
    +
-
+```
