@@ -12,7 +12,7 @@ Here is my planning of what I will do.
 | ----|--- | --- |
 | OpenCV Learning | Current Days | https://github.com/SylvesterLi/MyOpenCVCode | 
 | ASP.Net Review | After OCV | Not Start | 
-| Hexo Blog | When free | https://www.cnblogs.com/-SANG/p/9037701.html | 
+| Hexo Blog | Tomorrow Again | https://www.cnblogs.com/-SANG/p/9037701.html | 
 | Badminton | Mon/Wed/Fri | just play it | 
 
  <!-- |  |  |  |  -->
