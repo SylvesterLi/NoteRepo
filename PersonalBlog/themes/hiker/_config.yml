@@ -6,9 +6,9 @@
 menu:
   主页: /
   时间轴: archives
-  目录: categories
-  标签: tags
-  关于: about
+  #目录: categories
+  #标签: tags
+  #关于: about
 rss: /atom.xml
 
 since: 2017
@@ -162,9 +162,9 @@ show_busuanzi_view_counts: true
 donate:
     enable: true
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
-    wechatImage: css/images/wepay.png
+    wechatImage: https://raw.githubusercontent.com/SylvesterLi/NoteRepo/master/PersonalBlog/themes/hiker/source/css/images/wepay.png
     # 修改
-    alipayImage: css/images/alipay.png
+    alipayImage: https://raw.githubusercontent.com/SylvesterLi/NoteRepo/master/PersonalBlog/themes/hiker/source/css/images/alipay.jpg
     
 # post copyright
 copyright:
