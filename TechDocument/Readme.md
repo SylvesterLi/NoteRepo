@@ -17,7 +17,20 @@ Here is my planning of what I will do.
 
  <!-- |  |  |  |  -->
 
-PS> Hexo需要注意Repo不是Repository
+
+
+# Update at 2018/9/14
+
+Fisrt step has been finished and now we shold do is Thinking of Lon-Term Development Plan.
+
+Hexo is working well just as I expect. 
+
+The problem is this hexo is working on ` Azure Virtual Machine Windows Server 2016 ` We could merge wechat dev  enviorment and hexo.
+
+It's convent for us to debug ( wish wechat MP allows us such domian ).
+
+
+
  
 
 
